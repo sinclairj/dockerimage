@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t myimage:latest .
+sudo docker build -t myimage:latest .
